@@ -1,4 +1,4 @@
-# Manage Assignment
+# Manage Assignment APP
 Ceci est la partie API du projet sur les assignments
 
 ## Pré-requis
