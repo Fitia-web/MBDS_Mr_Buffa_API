@@ -9,7 +9,7 @@ Ceci est la partie API du projet sur les assignments
 ## Installation
 
 Installation du projet en local :
-- Clonez la [repository]() 
+- Clonez la [repository](https://github.com/Fitia-web/MBDS_Mr_Buffa_API.git) 
 - Base de données dans le cloud (MongoDB)
 - Installation des packages: ``npm install``
 - Démarrez le projet par ``npm start``
